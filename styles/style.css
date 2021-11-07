@@ -17,8 +17,7 @@ body {
 
 #landing {
     text-decoration: underline;
-    font-family: 'Western', sans-serif;
-    src: url('/western-cdnfonts/WEST____.TTF');
+
     font-size: 2em;
     position: relative;
     top: 50%;
@@ -27,6 +26,8 @@ body {
 }
 
 #title {
+    font-family: 'Western', sans-serif;
+    src: url('/western-cdnfonts/WEST____.TTF');
     position: relative;
     top: 50%;
     left: 50%;
