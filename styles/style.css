@@ -10,6 +10,11 @@ body {
     transform: translate(-50%, -50%);
 }
 
+@font-face {
+    font-family: 'Western';
+    src: url('http://fonts.cdnfonts.com/css/western');
+}
+
 #landing {
     text-decoration: underline;
     font-family: 'Western', sans-serif;
