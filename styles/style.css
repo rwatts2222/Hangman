@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Western';
-    src: url("http://fonts.cdnfonts.com/css/western");
+    font-family: 'Western', sans-serif;
+    src: url('/western-cdnfonts/WEST____.TTF');
 }
 
 section {
@@ -18,7 +18,7 @@ body {
 #landing {
     text-decoration: underline;
     font-family: 'Western', sans-serif;
-    src: url("http://fonts.cdnfonts.com/css/western");
+    src: url('/western-cdnfonts/WEST____.TTF');
     font-size: 2em;
     position: relative;
     top: 50%;
