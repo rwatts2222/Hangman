@@ -3,7 +3,7 @@ document.getElementById("play").onclick = function() {
 let landing = document.getElementById("landing");
 landing.innerHTML = "";
 
-let word = prompt("Welcome to Hangman! Player 1, please enter a word for Player 2 to guess.").toUpperCase();
+let word = prompt("Player 1, please enter a word for Player 2 to guess.").toUpperCase();
 
 let revealedLetters = new Array(word.length);
 revealedLetters.fill(false);

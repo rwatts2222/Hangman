@@ -1,10 +1,9 @@
-@import url('https://fonts.cdnfonts.com/css/western');
+@import url('http://fonts.cdnfonts.com/css/western');
 
 @font-face {
     font-family: 'Western', sans-serif;
-    src: url('https://fonts.cdnfonts.com/css/western');
+    src: url('http://fonts.cdnfonts.com/css/western');
 }
-
 
 section {
     margin: 4%;
@@ -20,7 +19,6 @@ body {
 
 #landing {
     text-decoration: underline;
-
     font-size: 2em;
     position: relative;
     top: 50%;
@@ -30,7 +28,7 @@ body {
 
 #title {
     font-family: 'Western', sans-serif;
-    src: url('https://fonts.cdnfonts.com/css/western');
+    src: url('http://fonts.cdnfonts.com/css/western');
     position: relative;
     top: 50%;
     left: 50%;
@@ -73,7 +71,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     cursor: default;
 }
-
 
 #input {
     font-size: 1.7em;
